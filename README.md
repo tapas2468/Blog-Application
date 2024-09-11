@@ -1,0 +1,1 @@
+This is a simple blog application built with Spring Boot, Thymeleaf, and Spring Security. The application allows users to create, read, update, and delete blog posts. It also includes user authentication and authorization features.
